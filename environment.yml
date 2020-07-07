@@ -1,0 +1,34 @@
+
+name: example-environment
+
+channels:
+
+  - conda-forge
+
+dependencies:
+
+  - numpy
+
+  - psutil
+
+  - toolz
+
+  - matplotlib
+
+  - dill
+
+  - pandas
+
+  - partd
+
+  - bokeh
+
+  - seaborn
+  
+  - matplotlib.ticker
+  
+  - matplotlib.pyplot
+  
+  - scipy.stats
+  
+  - researchpy
