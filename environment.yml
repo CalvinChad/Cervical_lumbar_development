@@ -25,10 +25,3 @@ dependencies:
 
   - seaborn
   
-  - matplotlib.ticker
-  
-  - matplotlib.pyplot
-  
-  - scipy.stats
-  
-  - researchpy
