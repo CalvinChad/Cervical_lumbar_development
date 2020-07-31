@@ -1,1 +1,1 @@
-scikit_posthocs
+scikit-posthocs
