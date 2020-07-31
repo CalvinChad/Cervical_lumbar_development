@@ -31,15 +31,11 @@ dependencies:
   
   - scikit-learn
   
+  - scikit-posthocs
+  
   - scipy
   
   - statsmodels
-  
-  - pip
-  
-pip:
- 
-  - scikit_posthocs
 
 
   
