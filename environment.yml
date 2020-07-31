@@ -33,8 +33,11 @@ dependencies:
   
   - statsmodels
   
-  - scikit_posthocs
+install:
+  - pip install codecov
+  - pip install coverage
 
-  
+script: coverage run --source scikit_posthocs setup.py test
+
 
 
