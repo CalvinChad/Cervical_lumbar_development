@@ -27,10 +27,4 @@ dependencies:
   
   - xlrd
   
-  - scipy
-  
-  - sklearn
-  
-  - statsmodel
-  
-  - scikit_posthocs
+
