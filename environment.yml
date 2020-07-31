@@ -26,3 +26,11 @@ dependencies:
   - seaborn
   
   - xlrd
+  
+  - scipy
+  
+  - sklearn
+  
+  - statsmodel
+  
+  - scikit_posthocs
