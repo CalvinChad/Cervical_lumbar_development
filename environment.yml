@@ -33,7 +33,7 @@ dependencies:
   
   - statsmodels
   
-  - scikit-posthocs
+  - scikit_posthocs
 
   
 
