@@ -4,6 +4,8 @@ name: example-environment
 channels:
 
   - conda-forge
+  
+  - anaconda
 
 dependencies:
 
@@ -33,13 +35,6 @@ dependencies:
   
   - statsmodels
   
-cache: pip
+  - scikit_posthocs
+  
 
-install:
-  - pip install codecov
-  - pip install coverage
-
-script: coverage run --source scikit_posthocs setup.py test
-
-after_success:
-  - codecov
