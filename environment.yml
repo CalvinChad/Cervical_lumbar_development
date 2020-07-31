@@ -30,8 +30,8 @@ dependencies:
   - scikit-learn
   
   - scipy
-  
-  - sp
+
+  script: coverage run --source scikit_posthocs setup.py test
   
 
 
