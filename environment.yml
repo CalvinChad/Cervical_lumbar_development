@@ -31,6 +31,6 @@ dependencies:
   
   - scipy
   
-  - scikit_posthocs
+  - scikit-posthocs
   
 
