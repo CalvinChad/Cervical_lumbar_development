@@ -7,6 +7,9 @@ channels:
   
   - conda
 
+pip:
+  - scikit_posthocs
+
 dependencies:
 
   - numpy
@@ -37,7 +40,7 @@ dependencies:
   
   - scikit_posthocs
   
-  - pip:
+  
     - scikit_posthocs
 
   
