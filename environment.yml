@@ -31,8 +31,6 @@ dependencies:
   
   - scikit-learn
   
-  - PMCMRplus
-  
   - scipy
   
   - statsmodels
