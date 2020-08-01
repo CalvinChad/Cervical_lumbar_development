@@ -35,10 +35,10 @@ dependencies:
   
   - statsmodels
   
-  - scikit-posthocs
+  - scikit_posthocs
   
   - pip:
-    - scikit-posthocs
+    - scikit_posthocs
 
   
 
