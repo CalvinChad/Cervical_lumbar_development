@@ -8,7 +8,7 @@ channels:
   - conda
 
 pip:
-  - scikit_posthocs
+  - scikit-posthocs
 
 dependencies:
 
@@ -38,10 +38,9 @@ dependencies:
   
   - statsmodels
   
-  - scikit_posthocs
+  - scikit-posthocs
   
-  
-    - scikit_posthocs
+
 
   
 
