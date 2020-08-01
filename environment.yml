@@ -36,7 +36,11 @@ dependencies:
   - scipy
   
   - statsmodels
-
+  
+  - scikit_posthocs
+  
+  - pip:
+    - scikit-posthocs
 
   
 
